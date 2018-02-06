@@ -8,8 +8,8 @@
   <packaging>jar</packaging>
 
   	<scm>
-		<connection>scm:svn:file:///C:/svn_repo/trunk</connection>
-		<developerConnection>scm:svn:file:///C:/svn_repo/trunk</developerConnection>
+		<connection>scm:git:file:///C:/gitDev/trunk</connection>
+		<developerConnection>scm:git:file:///C:/gitDev/trunk</developerConnection>
 	</scm>
 
   <properties>
