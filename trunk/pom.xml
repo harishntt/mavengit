@@ -8,8 +8,8 @@
   <packaging>jar</packaging>
 
   	<scm>
-		<connection>scm:git:file:///C:/gitDev/trunk</connection>
-		<developerConnection>scm:git:file:///C:/gitDev/trunk</developerConnection>
+		<connection>scm:git:HARISH@HARISH-RHK:C:\gitDev\trunk</connection>
+		<developerConnection>scm:git:HARISH@HARISH-RHK:C:\gitDev\trunk</developerConnection>
 	</scm>
 
   <properties>
