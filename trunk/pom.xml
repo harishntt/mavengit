@@ -5,7 +5,7 @@
   <groupId>com.harish.lab</groupId>
   <artifactId>test_maven_1</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   	<scm>
 		<connection>scm:git:https://github.com/harishntt/mavengit.git</connection>
