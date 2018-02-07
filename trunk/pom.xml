@@ -8,8 +8,8 @@
   <packaging>jar</packaging>
 
   	<scm>
-		<connection>scm:git:HARISH@HARISH-RHK:C:\gitDev\trunk</connection>
-		<developerConnection>scm:git:HARISH@HARISH-RHK:C:\gitDev\trunk</developerConnection>
+		<connection>scm:git:https://github.com/harishntt/mavengit.git</connection>
+		<developerConnection>scm:git:https://github.com/harishntt/mavengit.git</developerConnection>
 	</scm>
 
   <properties>
